@@ -1,6 +1,5 @@
 math = require "math"
 string = require "string"
-table = require "table"
 
 darktable = require "darktable"
 
